@@ -1,3 +1,4 @@
+# English
 # Git Repository Management Guide
 
 This guide provides step-by-step instructions for creating a Git repository, updating it, adding files, and deleting files using the command line.
@@ -82,7 +83,7 @@ This guide provides step-by-step instructions for creating a Git repository, upd
    ```
 
 ---
-
+# Français
 # Guide de Gestion de Référentiel Git
 
 Ce guide fournit des instructions étape par étape pour créer un référentiel Git, le mettre à jour, ajouter des fichiers et supprimer des fichiers en utilisant la ligne de commande.
