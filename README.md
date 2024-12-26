@@ -32,27 +32,40 @@ This guide provides step-by-step instructions for creating a Git repository, upd
 ## Updating the Repository
 
 1. **Navigate to your repository**
+    ```
     cd path/to/your/repository
+    ```
 2. **Pull the latest changes**
+     ```
     git pull origin main
-
+     ```
+    
 ## Adding files
 
 1. **Create or edit** files in your repository.
 2. **Stage the files you want to add**
+     ```
     git add filename1 filename2
     git add .
+     ```
 
 ## Deleting files
 
 1. **Delete file from local directory**
+     ```
     rm filename
+     ```
 2. **Stage the deletion**
+     ```
     git add filename
-
+    ```
 ## Save Changes
 
 1. **Commit with a message for clafication**
+     ```
     git commit -m "Your commit message here"
+     ```
 2. **Pushing Chanegs**
+     ```
     git push origin main
+     ```
