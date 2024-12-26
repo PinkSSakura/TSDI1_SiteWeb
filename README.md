@@ -1,3 +1,7 @@
+# Languages
+1. [English](#english)
+2. [Français](#francais)
+
 # English
 # Git Repository Management Guide
 
