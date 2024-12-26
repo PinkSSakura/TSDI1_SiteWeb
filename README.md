@@ -16,43 +16,43 @@ This guide provides step-by-step instructions for creating a Git repository, upd
 
 1. **Open your command line interface** (Command Prompt, PowerShell, Terminal, etc.).
 2. **Navigate to the directory** where you want to create your repository:
-   ```bash
+   bash
    cd path/to/your/directory
 3. **Create a new directory for your repositor** 
-    ```mkdir my-repo
+    mkdir my-repo
     cd my-repo
 4. **Initialize a new Git repository**
-    ```git init
+    git init
 
 ## Cloning an Existing Repository
 
 1. Use the **git clone** command followed by the repository URL:
-    ```git clone https://github.com/username/repository.git
+    git clone https://github.com/username/repository.git
 
 ## Updating the Repository
 
 1. **Navigate to your repository**
-    ```cd path/to/your/repository
+    cd path/to/your/repository
 2. **Pull the latest changes**
-    ```git pull origin main
+    git pull origin main
 
 ## Adding files
 
 1. **Create or edit** files in your repository.
 2. **Stage the files you want to add**
-    ```git add filename1 filename2
+    git add filename1 filename2
     git add .
 
 ## Deleting files
 
 1. **Delete file from local directory**
-    ```rm filename
+    rm filename
 2. **Stage the deletion**
-    ```git add filename
+    git add filename
 
 ## Save Changes
 
 1. **Commit with a message for clafication**
-    ```git commit -m "Your commit message here"
+    git commit -m "Your commit message here"
 2. **Pushing Chanegs**
-    ```git push origin main
+    git push origin main
