@@ -1,6 +1,6 @@
 # Languages
 1. [English](#english)
-2. [Français](#francais)
+2. [French](#french)
 
 # English
 # Git Repository Management Guide
@@ -87,7 +87,7 @@ This guide provides step-by-step instructions for creating a Git repository, upd
    ```
 
 ---
-# Français
+# French
 # Guide de Gestion de Référentiel Git
 
 Ce guide fournit des instructions étape par étape pour créer un référentiel Git, le mettre à jour, ajouter des fichiers et supprimer des fichiers en utilisant la ligne de commande.
