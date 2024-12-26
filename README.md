@@ -61,11 +61,11 @@ This guide provides step-by-step instructions for creating a Git repository, upd
     ```
 ## Save Changes
 
-1. **Commit with a message for clafication**
+1. **Commit with a message for clarification**
      ```
     git commit -m "Your commit message here"
      ```
-2. **Pushing Chanegs**
+2. **Pushing Changes**
      ```
     git push origin main
      ```
