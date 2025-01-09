@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.formulaire{
+    max-width: 400px;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 25PX;
+    padding: 20px;
+}
+
+.champs {
+    width: 50%;
+    padding: 10px;
+    margin: 5px;
+}
+
+
+.button{
+    cursor: pointer;
+    background-color: chocolate;
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 9px;
+}
